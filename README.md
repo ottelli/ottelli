@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @ottelli
-- 🏃 I’m a Sports Engineer
-- 📊 I’m focused on building wearables and data visualisation tools for the web and mobile
-- 💡 I’m currently learning React to supercharge my frontend development
-- 📫 Contact me on GitHub or by email >> business.ottelli@gmail.com
+👋 Hi, I'm Elliott (@ottelli)
+
+A Sports Technologist, Engineer, and Founder of Rho Technologies.
+
+I bring my experience of building wearables, and data visualisation tools
+to the web and mobile, to help athletes (and regular people like myself!)
+understand and optimise their training for their goals, values, and lifestyle.
+
+<b>Share my goal?</b> 
+
+Collaborate with me on Github
+
+Contact me by email >> elliott@rho-technologies.com
 
 <!---
 ottelli/ottelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
