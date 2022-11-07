@@ -8,9 +8,9 @@ understand and optimise their training for their goals, values, and lifestyle.
 
 <b>Share my goal?</b> 
 
-Collaborate with me on Github
-
-Contact me by email >> elliott@rho-technologies.com
+Collaborate with here me on Github
+Connect with me on <a href="https://linkedIn.com/elliott-cheesman">LinkedIn</a> 
+Send me an email >> elliott@rho-technologies.com
 
 <!---
 ottelli/ottelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
