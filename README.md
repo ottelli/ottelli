@@ -1,6 +1,6 @@
 👋 Hi, I'm Elliott (@ottelli)
 
-A Sports Technologist, Full-Stack Web Developer, and Founder of Rho Technologies.
+A Sports Engineer, Full-Stack Web Developer, and Founder of Rho Technologies.
 
 I bring my experience of building wearables, and data visualisation tools
 to the web and mobile, to help athletes (and regular people like myself!)
